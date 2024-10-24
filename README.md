@@ -34,5 +34,6 @@ A top level dashboard for executives consolidating top insights from all dimensi
 
 ## Model View
 ![Screenshot 2024-10-24 145433](https://github.com/user-attachments/assets/6cf8ed97-cd7b-4792-acf2-ef7cf266dc0d)
+
 Used snowflake schema to design the data model.
 
